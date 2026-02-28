@@ -1,0 +1,21 @@
+# General
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+
+# Django
+db.sqlite3
+media/
+staticfiles/
+*.joblib
+model_folder/
+
+# Editors
+.vscode/
+.idea/
+*.swp
