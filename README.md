@@ -352,9 +352,7 @@ Schedule a request to `/api/home/trigger-radars/` (with your secret key) from an
 ## 👤 Author
 
 **Mahfuz Alam Chowdhury**
-Full-Stack Software Engineer (Python/Django, Flutter, AI integration)
-Chairperson, IEEE Computer Society, Leading University Student Branch
-Sylhet, Bangladesh
+<br> Software Engineer · CSE Graduate<br> Python/Django · Flutter · AI integration<br> Sylhet, Bangladesh
 
 - 🌐 GitHub: [github.com/mahfuzalam25](https://github.com/mahfuzalam25)
 - 💼 LinkedIn: [linkedin.com/in/md-mahfuz-alam-chowdhury](https://www.linkedin.com/in/md-mahfuz-alam-chowdhury)
