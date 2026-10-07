@@ -343,9 +343,9 @@ Schedule a request to `/api/home/trigger-radars/` (with your secret key) from an
 
 <!-- Add images to docs/screenshots/ and replace the placeholders -->
 
-| Home | AI Price Estimator | Market Radar |
+| Market Radar | AI Price Estimator | NLP Search |
 |---|---|---|
-| _add image_ | _add image_ | _add image_ |
+| <p align="center"><img src="docs/screenshots/fiver2.png" alt="NirapodNest AI Radar" width="100%"></p> | <p align="center"><img src="docs/screenshots/fiver3.png" alt="NirapodNest AI Radar" width="100%"></p> | <p align="center"><img src="docs/screenshots/fiver4.png" alt="NirapodNest AI Radar" width="100%"></p> |
 
 ---
 
